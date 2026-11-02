@@ -1,13 +1,15 @@
-# Customer Conversion Modeling in R
+<p align="left">
+  <img src="https://readme-typing-svg.demolab.com?font=Segoe+UI&weight=600&size=28&duration=4000&pause=1000&color=24292E&center=false&vCenter=true&width=650&lines=Customer+Conversion+Modeling+in+R;Marketing+Analytics+Assignment" alt="Typing SVG" />
+</p>
 
 [![Language](https://img.shields.io/badge/Language-R-blue?style=flat-square)]()
-[![Course](https://img.shields.io/badge/Course-MKT%204314-orange?style=flat-square)]()
+[![Focus](https://img.shields.io/badge/Focus-Customer_Conversion-orange?style=flat-square)]()
 [![Status](https://img.shields.io/badge/Status-Completed-success?style=flat-square)]()
 
 ---
 
 ## 📈 Executive Summary
-This project analyzes e-commerce customer conversion drivers using 800 observations and 6 key variables[cite: 2, 5]. It builds, compares, and evaluates **Linear Probability Models (LPM)** and **Logistic Regression** to understand customer purchasing behavior.
+Dis project analyzes e-commerce customer conversion drivers using 800 observations and 6 key variables[cite: 2, 5]. It builds, compares, and evaluates **Linear Probability Models (LPM)** and **Logistic Regression** to understand customer purchasing behavior.
 
 ---
 
