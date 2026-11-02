@@ -11,7 +11,7 @@
 ---
 
 ## 📈 Executive Summary
-This project analyzes e-commerce customer conversion drivers using 800 observations and 6 key variables[cite: 2, 5]. It builds, compares, and evaluates **Linear Probability Models (LPM)** and **Logistic Regression** to understand customer purchasing behavior.
+This project analyzes e-commerce customer conversion drivers using 800 observations and 6 key variables. It builds, compares, and evaluates **Linear Probability Models (LPM)** and **Logistic Regression** to understand customer purchasing behavior.
 
 ---
 
